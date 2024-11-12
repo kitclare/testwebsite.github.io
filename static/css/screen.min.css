@@ -601,6 +601,7 @@ body {
 }
 .team {
     width: 50%;
+    align-content: center;
     min-height: 645px;
     padding-top: 55px;
     background-color: #16a086;
