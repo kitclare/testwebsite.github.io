@@ -600,7 +600,7 @@ body {
     transform: scale(1.2);
 }
 .team {
-    width: 50%;
+    width: 100%;
     justify-content: center;
     min-height: 645px;
     padding-top: 55px;
