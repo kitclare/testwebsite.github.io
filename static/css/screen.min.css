@@ -459,7 +459,7 @@ body {
 .portfolio__item {
     position: relative;
     display: inline-block;
-    width: 2500px;
+    width: 250px;
     height: 250px;
     margin: 0 50px 55px;
 }
