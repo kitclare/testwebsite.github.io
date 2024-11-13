@@ -458,8 +458,8 @@ body {
 .portfolio__item {
     position: relative;
     display: inline-block;
-    width: 50%;
-    height: 50%;
+    width: 180px;
+    height: 180px;
     margin: 0 30px 35px;
 }
 .portfolio__item.is-hidden {
