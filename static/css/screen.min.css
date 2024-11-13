@@ -479,9 +479,7 @@ body {
     top: 0;
     padding-top: 35px;
     background-color: #1bbc9b;
-    background-color: rgba(27, 188, 155, 0.8);
-    -webkit-border-radius: 50%;
-    border-radius: 50%;
+    background-color: rgba(27, 188, 155, 0.8); 
     color: #fff;
     opacity: 0;
     -webkit-transition: all 0.5s;
